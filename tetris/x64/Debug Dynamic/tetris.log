@@ -1,0 +1,18 @@
+﻿  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Подпапка или файл C:\Users\Lenov\source\repos\tetris\x64\Debug Dynamic\resources уже существует.
+  C:\Users\Lenov\source\repos\tetris\resources\ball.wav
+  C:\Users\Lenov\source\repos\tetris\resources\sansation.ttf
+  Скопировано файлов:         2.
+  main.cpp
+c:\users\lenov\source\repos\tetris\main.cpp(38): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\lenov\source\repos\tetris\main.cpp(50): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\lenov\source\repos\tetris\main.cpp(72): warning C4305: =: усечение из "double" в "float"
+c:\users\lenov\source\repos\tetris\main.cpp(135): warning C4305: =: усечение из "double" в "float"
+c:\users\lenov\source\repos\tetris\main.cpp(147): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\lenov\source\repos\tetris\main.cpp(155): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  tetris.vcxproj -> C:\Users\Lenov\source\repos\tetris\x64\Debug Dynamic\tetris.exe

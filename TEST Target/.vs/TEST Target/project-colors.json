@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "badcc64d-839d-45f8-9b51-4f616c8af870": {
+      "ProjectGuid": "badcc64d-839d-45f8-9b51-4f616c8af870",
+      "DisplayName": "TEST Target",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

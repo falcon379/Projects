@@ -1,0 +1,45 @@
+﻿  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Подпапка или файл C:\Users\Lenov\source\repos\TEST Target\x64\Debug Dynamic\resources уже существует.
+  C:\Users\Lenov\source\repos\TEST Target\resources\ball.wav
+  C:\Users\Lenov\source\repos\TEST Target\resources\CyrilicOld.TTF
+  C:\Users\Lenov\source\repos\TEST Target\resources\sansation.ttf
+  Скопировано файлов:         3.
+  main.cpp
+c:\users\lenov\source\repos\test target\map.h(38): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(29): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\lenov\source\repos\test target\main.cpp(48): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\lenov\source\repos\test target\main.cpp(81): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(82): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(86): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(87): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(88): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(89): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(140): warning C4305: =: усечение из "double" в "float"
+c:\users\lenov\source\repos\test target\main.cpp(146): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(147): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(151): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(151): warning C4305: =: усечение из "double" в "float"
+c:\users\lenov\source\repos\test target\main.cpp(152): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(152): warning C4305: =: усечение из "double" в "float"
+c:\users\lenov\source\repos\test target\main.cpp(153): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(153): warning C4305: =: усечение из "double" в "float"
+c:\users\lenov\source\repos\test target\main.cpp(154): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(154): warning C4305: =: усечение из "double" в "float"
+c:\users\lenov\source\repos\test target\main.cpp(201): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\lenov\source\repos\test target\main.cpp(263): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\lenov\source\repos\test target\main.cpp(312): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  TEST Target.vcxproj -> C:\Users\Lenov\source\repos\TEST Target\x64\Debug Dynamic\TEST Target.exe
